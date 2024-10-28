@@ -53,3 +53,8 @@ For data overview, univariate analysis was performed to get a basic idea about w
 5. Occupation is a strong indicator of income. As shown in Fig. 5, different occupation offers a significantly different chance of getting good pay. For example, over 40 percent of people working as executive managerial and professional specialty own more than 50K annually. However, other occupations, such as private house service, other services, handler cleansers, etc., can hardly hold more than 50K per year.People with a higher education level and occupations such as professional specialty, executive managerial, sales, etc., have a better chance of earning more than 50K per year. On the other hand, people whose education level is below nine and who work in the armed force or private housing services can hardly get more than 50K per year. Therefore, occupation combined with education can be a strong indicator of salary.
 ![alt text](https://github.com/onmoonno/Critical-Factors-of-US-Individual-Salary/blob/main/figure5.png)
 
+## Acknowledgments
+This project was developed as part of the coursework for CSE 578: Data Visualization at Arizona State University. Special thanks to the course instructors for their guidance and the provided materials.
+
+
+
